@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+  <head>
+	<title>My first Game!</title>
+  </head>
+  <body>
+    <canvas id="panel"></canvas>
+    <script>
+      
+    </script>
+  </body>
+</html>

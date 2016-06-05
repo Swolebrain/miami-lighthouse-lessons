@@ -1,0 +1,6 @@
+
+var c = document.getElementById("panel");
+c.width = window.innerWidth;
+c.height = window.innerHeight;
+var ctx = document.getElementById("panel").getContext("2d");
+  

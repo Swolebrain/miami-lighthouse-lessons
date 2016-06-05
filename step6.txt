@@ -1,0 +1,12 @@
+//step 6: Wrap ALLLLL your code inside a function 
+called initialize:
+
+function initialize(){
+  //all your working code here
+  //all your working code here
+  //all your working code here
+}
+
+var img = new Image();
+img.src = "http://findsomethingyoulike";
+img.onload = initialize;

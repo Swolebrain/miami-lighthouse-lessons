@@ -1,0 +1,11 @@
+
+ctx.strokeRect(100, 100, 50, 50);
+
+
+ctx.fillRect(200, 200, 50, 50);
+
+
+//step 3-b:
+body{
+  overflow: hidden;
+}
